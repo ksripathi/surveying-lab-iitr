@@ -21,28 +21,13 @@
                 {
                     "contact": {
                         "alternate_email": "", 
-                        "email": "sushil.medhe@gmail.com", 
+                        "email": "pkgiitr@gmail.com", 
                         "mobile_number": "", 
                         "office_number": ""
                     }, 
-                    "department": "", 
-                    "institute": "COE Pune", 
-                    "name": "Sushil Medhe", 
-                    "organization": "", 
-                    "role": "Lab Developer", 
-                    "title": "", 
-                    "web": ""
-                }, 
-                {
-                    "contact": {
-                        "alternate_email": "", 
-                        "email": "gkothawade4@gmail.com", 
-                        "mobile_number": "", 
-                        "office_number": ""
-                    }, 
-                    "department": "", 
-                    "institute": "COE Pune", 
-                    "name": "Gaurav Kothawade", 
+                    "department": "Civil Department", 
+                    "institute": "IIT Roorkee", 
+                    "name": "Dr. P.K. Garg", 
                     "organization": "", 
                     "role": "Lab Developer", 
                     "title": "", 
@@ -50,11 +35,11 @@
                 }
             ], 
             "discipline": [
-                "Electrical Engineering"
+                "Civil Engineering"
             ], 
-            "id": "sensor01", 
+            "id": "CSL", 
             "integration_level": 5, 
-            "name": "PLC", 
+            "name": "Surveying", 
             "server-side": true, 
             "status": "Released", 
             "type": ""
@@ -64,7 +49,7 @@
                 "arch": "i386", 
                 "hosting": "dedicated", 
                 "installer": ["sudo apt-get update",
-                "sudo apt-get install -y apache2"], 
+                "sudo apt-get install -y php5 apache2"], 
                 "lab_actions": {
                     "backup": [], 
                     "clean": [], 
